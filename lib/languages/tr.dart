@@ -1,0 +1,17 @@
+const Map<String, String> tr = {
+  'toplam_vakalar': 'Toplam Vakalar',
+  'vaka': 'Vaka',
+  'iyileşen': 'İyileşen',
+  'ölüm': 'Ölüm',
+  'ülkeler': 'Ülkeler',
+  'haberler': 'Haberler',
+  'istatislikler': 'İstatislikler',
+  'toplam_aktif_vaka': 'Toplam Aktif Vaka',
+  'vaka_haritası': 'Vaka Haritası',
+  'ara': 'Ara', 
+  'vakalar': 'Vakalar',  
+  'daha_fazla': 'Daha Fazla...',  
+  'haber_detayı': 'Haber Detayı',  
+  'haber_kaynağı': 'Haber Kaynağı',  
+  'haber_sitesi': 'Haber Sitesi',  
+};

@@ -1,0 +1,17 @@
+const Map<String, String> eng = {
+  'toplam_vakalar': 'Total Cases',
+  'vaka': 'Cases',
+  'iyileşen': 'Recovered',
+  'ölüm': 'Death',
+  'ülkeler': 'Countries',
+  'haberler': 'News',
+  'istatislikler': 'Statistics',
+  'toplam_aktif_vaka': 'Total Active Cases',
+  'vaka_haritası': 'Cases Map',
+  'ara': 'Search',
+  'vakalar': 'Cases',
+  'daha_fazla': 'More...',
+  'haber_detayı': 'News Detail',
+  'haber_kaynağı': 'Source Of News',
+  'haber_sitesi': 'News Site',
+};
